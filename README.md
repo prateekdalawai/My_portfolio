@@ -117,7 +117,7 @@ Give a ⭐️ if this project helped you! You can buy me a coffee if you'd like 
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Prateek Dalawai**
 
 - Website: https://prateekportfolio-plum.vercel.app/
 - Github: https://github.com/prateekdalawai
